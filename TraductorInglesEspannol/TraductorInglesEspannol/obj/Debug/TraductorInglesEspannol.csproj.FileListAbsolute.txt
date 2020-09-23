@@ -1,0 +1,8 @@
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\bin\Debug\TraductorInglesEspannol.dll
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\bin\Debug\TraductorInglesEspannol.pdb
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\obj\Debug\TraductorInglesEspannol.csprojAssemblyReference.cache
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\obj\Debug\TraductorInglesEspannol.UserControl1.resources
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\obj\Debug\TraductorInglesEspannol.csproj.GenerateResource.cache
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\obj\Debug\TraductorInglesEspannol.csproj.CoreCompileInputs.cache
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\obj\Debug\TraductorInglesEspannol.dll
+C:\Users\Evese\source\repos\TraductorInglesEspannol\TraductorInglesEspannol\obj\Debug\TraductorInglesEspannol.pdb

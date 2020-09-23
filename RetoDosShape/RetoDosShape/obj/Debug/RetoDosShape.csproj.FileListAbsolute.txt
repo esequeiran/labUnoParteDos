@@ -1,0 +1,7 @@
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\bin\Debug\RetoDosShape.dll
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\bin\Debug\RetoDosShape.pdb
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\obj\Debug\RetoDosShape.UserControl1.resources
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\obj\Debug\RetoDosShape.csproj.GenerateResource.cache
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\obj\Debug\RetoDosShape.csproj.CoreCompileInputs.cache
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\obj\Debug\RetoDosShape.dll
+C:\Users\Evese\source\repos\RetoDosShape\RetoDosShape\obj\Debug\RetoDosShape.pdb
